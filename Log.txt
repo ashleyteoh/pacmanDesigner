@@ -1,0 +1,5 @@
+[PacMan] Location: 10-6. Score: 0. Pills: 0
+[PacMan] Location: 6-6. Eat Pill/Item: pills
+[PacMan] Location: 9-6. Score: 1. Pills: 1
+[PacMan] Location: 9-7. Score: 1. Pills: 1
+[PacMan] Location: 9-8. Score: 1. Pills: 1
